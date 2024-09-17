@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**komez/komez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 About Me
+💡 I love creating things and take action to bring my ideas to life.  
+🎓 Currently, I work as a Product Manager (PdM) and run a side-job matching platform.  
+🌱 I code in my free time, focusing on web development and data programming.  
+💬 Based in Japan.
 
-Here are some ideas to get you started:
+## 🔬 Product Management (PdM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Stack
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Python
+- SQL
+- Keras
+- Torch
+- HTML
+- CSS
+- Git
+- GitHub
+- Markdown
+- Visual Studio Code
+- Figma
+- Canva
+
+## 🤝🏻 Connect
+- [LinkedIn](https://www.linkedin.com/in/ryota-komezaki-a960b1257/)
+- [X](https://x.com/OmochiKomochi_)
